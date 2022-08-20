@@ -1,15 +1,18 @@
 # RUST WEB ToDo
 
-Web Application, MVC, WARP, SQLX, Database (PostgreSQL), and Native Web Components.
+Web Application, Tokio, MVC, WARP, SQLX, Database (PostgreSQL), and Native Web Components.
   
 rusts_kills += 3;
 
-## RUST Programer
+## RUST Programming
 
 I needed some training with the RUST WEB, and this repository is the product of an excellent tutorial [Rust Web App](https://www.youtube.com/watch?v=VIig9IcQ-w8).Repository [Jeremy Chone rust-todomvc](https://github.com/jeremychone-channel/rust-todomvc).
 
 Backend Instructions
-[Backen Readme](./backend/README.md)
+[Backend](./backend/README.md)
 
 Frontend Instructions
-[Backen Readme](./frontend/README.md)
+[Frontend](./frontend/README.md)
+
+
+![todo-rust](https://user-images.githubusercontent.com/19849921/185758642-6134f5d7-e53f-493e-9088-392621c40d7e.png)
