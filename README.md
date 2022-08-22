@@ -2,7 +2,7 @@
 
 Web Application, Tokio, MVC, WARP, SQLX, Database (PostgreSQL), and Native Web Components.
   
-rusts_kills += 3;
+rust_kills += 3;
 
 ## RUST Programming
 
